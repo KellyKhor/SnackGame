@@ -15,16 +15,16 @@ The snake grows longer as it eats food, the player’s score increases, and the 
 - Language: Ruby
 - Graphics/Input Library: Gosu
 
-## How to Run
-
-### Prerequisites
-- Install [Ruby](https://rubyinstaller.org/)  
-- Install Gosu:
+## Prerequisites to Run
+Before running the game, make sure you have:
+- **Ruby** installed → [Download Ruby](https://rubyinstaller.org/) (for Windows) or install via package manager (macOS/Linux).  
+- **Gosu gem** installed →  
   ```bash
   gem install gosu
   ```
+- A terminal/command prompt that can run Ruby commands.  
 
-### Running the Game
+## How to Run
 ```bash
 # Navigate to project folder
 cd "path/to/project"
