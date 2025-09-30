@@ -5,10 +5,9 @@ The snake grows longer as it eats food, the player’s score increases, and the 
 
 ## Features
 - Classic snake mechanics (growth + collision detection).
-- Customisable snake colours (choose from multiple options).
-- Snake changes colour dynamically on collisions.
+- Customisable snake colours (choose from multiple options) at start of game.
 - Random ball generation.
-- Score and high score tracking.
+- Score tracking.
 - Smooth keyboard controls (arrow keys).
 
 ## Tech Stack
