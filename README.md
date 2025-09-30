@@ -1,6 +1,6 @@
 # Snake Game (Ruby)
 
-A modern take on the classic Snake Game, built in Ruby with the Ruby2D library.
+A modern take on the classic Snake Game, built in Ruby with the Gosu library.
 The snake grows longer as it eats food, the player’s score increases, and the game ends when the snake collides with itself.
 
 ## Features
@@ -13,15 +13,15 @@ The snake grows longer as it eats food, the player’s score increases, and the 
 
 ## Tech Stack
 - Language: Ruby
-- Graphics/Input Library: Ruby2D
+- Graphics/Input Library: Gosu
 
 ## How to Run
 
 ### Prerequisites
 - Install [Ruby](https://rubyinstaller.org/)  
-- Install Ruby2D:
+- Install Gosu:
   ```bash
-  gem install ruby2d
+  gem install gosu
   ```
 
 ### Running the Game
